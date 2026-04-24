@@ -1896,6 +1896,34 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 17,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 17,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 14,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4289,6 +4317,34 @@
           "distance": 9563.5,
           "elevation_gain": 21.0,
           "moving_time": 3929.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18214389683",
+            "18214389786"
+          ],
+          "count": 2,
+          "distance": 10789.800000000001,
+          "elevation_gain": 35.0,
+          "moving_time": 3965.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18226086437"
+          ],
+          "count": 1,
+          "distance": 6598.0,
+          "elevation_gain": 9.0,
+          "moving_time": 2702.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18239268636"
+          ],
+          "count": 1,
+          "distance": 10789.9,
+          "elevation_gain": 27.0,
+          "moving_time": 4032.0
         }
       },
       "Walk": {
@@ -4313,7 +4369,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:08:09.132146+00:00",
+  "generated_at": "2026-04-24T16:03:46.264514+00:00",
   "other_bucket": "OtherSports",
   "repo": "DeifiliaTo/git-sweaty",
   "source": "strava",
