@@ -3872,5 +3872,31 @@
     "start_date_local": "2026-05-24T08:57:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 9137.8,
+    "elevation_gain": 20.0,
+    "id": "18643511828",
+    "moving_time": 3432.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T08:19:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 27898.5,
+    "elevation_gain": 73.0,
+    "id": "18647449673",
+    "moving_time": 5511.0,
+    "name": "Pfingsten ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T13:00:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
